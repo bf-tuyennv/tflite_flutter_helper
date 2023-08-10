@@ -1,3 +1,7 @@
+# [1.0.0] - Migrate to tflite_flutter 0.10.1
+* Remove all plugin and unnecessary code
+* Migrate to tflite_flutter 0.10.1
+
 # [0.3.0] - Audio Support and Task Library
 * Added support for audio-cases.
 * Task Library for Text based applications.
