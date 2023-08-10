@@ -2,8 +2,8 @@ import 'dart:math';
 import 'dart:typed_data';
 
 import 'package:quiver/check.dart';
+import 'package:tflite_audio_detection/tflite_audio_detection.dart';
 import 'package:tflite_flutter/tflite_flutter.dart';
-import 'package:tflite_flutter_helper/tflite_flutter_helper.dart';
 
 class TensorAudio {
   static const String TAG = "TensorAudioDart";
